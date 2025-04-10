@@ -1,6 +1,6 @@
 The smart door lock system was developed using two versions: one based on the STM32F103 microcontroller programmed with the CMSIS abstraction layer on the Keil uVision5 platform, with code uploaded via the ST-Link programmer; and the other version based on the ATmega328P microcontroller, programmed in C using Microchip Studio and uploaded using a USBasp programmer through the ProgISP software.
 ####### SYSTEM FLOW ########
-![Smart Door Lock](ATmega328PRegister/SmartLock_ATmega328P.png)
+![Smart Door Lock](ATmega328P_Register/SmartLock_ATmega328P.png)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
