@@ -55,7 +55,7 @@ LEDInit();
 				{
 					
 					LCD_Gotoxy(0,1);
-					LCD_Puts("Lam On Dung Di Troi");
+					LCD_Puts("Mat khau dung, moi vao");
 					sprintf(bufferRFID, "[%s voi Card ID=%02x-%02x-%02x-%02x-%02x]", dataUDP_permit, CardID[0], CardID[1], CardID[2], CardID[3], CardID[4]);
 				
 				}
