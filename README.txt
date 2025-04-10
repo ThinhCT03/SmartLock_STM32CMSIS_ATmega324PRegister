@@ -8,7 +8,7 @@ The main hardware components of the project include an LCD1602 I2C module, a 4x4
 
 
 ########### SCHEMATIC ############
-![Smart Door Lock](PCB/PCB_Layout.png).
+![Smart Door Lock](PCB/PCB_Layout.png)
 
 ########### LAYOUT #############
 ![Smart Door Lock](PCB/PCB_Layout.png).
